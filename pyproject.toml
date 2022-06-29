@@ -11,6 +11,9 @@ translate = "^3.6.1"
 textblob = "^0.17.1"
 pyaztro = "^0.3"
 currency-converter-with-rate = "^1.1.0"
+pygame = "^2.1.2"
+gTTS = "^2.2.4"
+Pillow = "^9.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
