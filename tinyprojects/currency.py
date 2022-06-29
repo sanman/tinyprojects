@@ -7,3 +7,4 @@ target_currency = input("Enter the target currency: ")
 data = converter.convert().base(base_currency).target(target_currency).amount(1).get()
                                 
 print(data)
+
